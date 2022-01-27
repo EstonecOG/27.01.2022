@@ -1,0 +1,1 @@
+data_game = {'kas': {'mod': [], 'user': []}}
